@@ -17,7 +17,7 @@
                     <mxGeometry x="280" y="80" width="240" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="5" value="&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;font style=&quot;font-size: 12px&quot; color=&quot;#ffffff&quot;&gt;Задаем длину элемента по которй будем искать элементы, длина которых меньше либо равна 3 символа&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-family: &amp;#34;consolas&amp;#34; , &amp;#34;courier new&amp;#34; , monospace ; line-height: 24px&quot;&gt;&lt;font size=&quot;3&quot; color=&quot;#ffffff&quot;&gt;length = 3&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-                    <mxGeometry x="205" y="160" width="390" height="80" as="geometry"/>
+                    <mxGeometry x="205" y="160" width="390" height="70" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
